@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppLock</string>
+    <string name="service_desc">Detects when a protected app opens so it can ask for your fingerprint. No data is read or sent anywhere.</string>
+</resources>
